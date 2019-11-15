@@ -1,2 +1,2 @@
 # Embarcados
-Códigos desenvolvidos para plataformas embarcadas
+Códigos desenvolvidos para plataformas embarcadas.
